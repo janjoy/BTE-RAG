@@ -1,0 +1,2 @@
+data/analysis_results/**/*.parquet filter=lfs diff=lfs merge=lfs -text
+data/analysis_results/**/*.csv filter=lfs diff=lfs merge=lfs -text
