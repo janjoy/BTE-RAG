@@ -3,3 +3,5 @@ DMDB_benchmark/dataset_DMDB.ipynb
 
 kg_rag/vectorDB
 environment.yml
+
+**/.ipynb_checkpoints/
