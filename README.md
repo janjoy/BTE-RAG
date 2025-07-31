@@ -41,16 +41,18 @@ This repository provides an implementation of the **BTE-RAG** framework, designe
 
    - Navigate to the `notebooks/` directory and open any example `.ipynb` to reproduce analyses.
 
-### Contributing
-
-Contributions are welcome! Please submit pull requests or open issues for feature requests, bug reports, or enhancements.
-
 ### Citation
 
 If you use this work in your research, please cite our publication:
 
+### Contributing
+
+Contributions are welcome! Please submit pull requests or open issues for feature requests, bug reports, or enhancements.
 
 ### License
 
 This repository is released under the  License. See the [LICENSE](LICENSE) file for details.
+
+*Acknowledgements*  
+Some code components were adapted from [BaranziniLab/KG_RAG](https://github.com/BaranziniLab/KG_RAG) and [SuLab/DrugMechDB](https://github.com/SuLab/DrugMechDB).
 
