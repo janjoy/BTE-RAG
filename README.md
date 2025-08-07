@@ -41,6 +41,11 @@ This repository provides an implementation of the **BTE-RAG** framework, designe
 
    - Navigate to the `notebooks/` directory and open any example `.ipynb` to reproduce analyses.
 
+### Contributors
+Janet Joy
+
+Andrew I. Su
+
 ### Citation
 
 If you use this work in your research, please cite our publication:
