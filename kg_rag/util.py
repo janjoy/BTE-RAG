@@ -386,7 +386,6 @@ def retrieve_context_v17(question, drug_id, drug_name, disease_id, disease_name,
     "\n".join(disease_context if disease_context else [])  
 )
     print("few lines of combined_context_str", combined_context_str[:10])
-    print("NEW 9")
 
     return node_context_extracted, combined_context_str
 
@@ -446,13 +445,13 @@ def retrieve_output_from_llm_v17(
         output_1 = get_GPT_response(
             enriched_prompt_1, system_prompt, llm_type, llm_type, temperature=config_data["LLM_TEMPERATURE"]
         )
-        print("done 1",output_1)
+    
 
         enriched_prompt_NC_final = "Context: " + combined_context_str_trunc + "\n" + "Question: " + question
         output_NC_final = get_GPT_response(
             enriched_prompt_NC_final, system_prompt, llm_type, llm_type, temperature=config_data["LLM_TEMPERATURE"]
         )
-        print("done 2", output_NC_final)
+       
 
 
     return (
