@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-07-26T13:20:41.774637</dc:date>
+    <dc:date>2025-12-10T12:48:35.071390</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,18 +43,18 @@ L 262.659034 173.337394
 L 262.659034 46.538856 
 L 51.177216 46.538856 
 z
-" clip-path="url(#pfcb42ce72e)" style="fill: #de8f05"/>
+" clip-path="url(#p7758e73f87)" style="fill: #de8f05"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="mdd7c98e27b" d="M 0 0 
+       <path id="macf9801c09" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#mdd7c98e27b" x="156.918125" y="183.558125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#macf9801c09" x="156.918125" y="183.558125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -138,12 +138,12 @@ z
     <g id="ytick_1">
      <g id="line2d_2">
       <defs>
-       <path id="mae7af12f5c" d="M 0 0 
+       <path id="m50d6d51854" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="173.337394" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="173.337394" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -179,7 +179,7 @@ z
     <g id="ytick_2">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="147.785568" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="147.785568" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -219,7 +219,7 @@ z
     <g id="ytick_3">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="122.233741" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="122.233741" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -249,7 +249,7 @@ z
     <g id="ytick_4">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="96.681914" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="96.681914" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -263,7 +263,7 @@ z
     <g id="ytick_5">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="71.130087" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="71.130087" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
@@ -303,7 +303,7 @@ z
     <g id="ytick_6">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#mae7af12f5c" x="40.603125" y="45.578261" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m50d6d51854" x="40.603125" y="45.578261" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
@@ -575,7 +575,7 @@ z
    <g id="line2d_8">
     <path d="M 40.603125 173.337394 
 L 273.233125 173.337394 
-" clip-path="url(#pfcb42ce72e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.8"/>
+" clip-path="url(#p7758e73f87)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.8"/>
    </g>
    <g id="patch_4">
     <path d="M 40.603125 183.558125 
@@ -852,7 +852,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pfcb42ce72e">
+  <clipPath id="p7758e73f87">
    <rect x="40.603125" y="36.318125" width="232.63" height="147.24"/>
   </clipPath>
  </defs>

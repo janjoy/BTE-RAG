@@ -1,0 +1,301 @@
+Question,extracted_disease,curie_id,Goldstandard,llm_answer_prompt_test
+What is the name of the gene related to Hemolytic anemia due to phosphofructokinase deficiency?,Hemolytic anemia due to phosphofructokinase deficiency,MONDO:0009113,PFKL,"{
+  ""answer"": ""PFKM""
+}"
+What is the name of the gene related to Distal renal tubular acidosis?,Distal renal tubular acidosis,MONDO:0015827,"SLC4A1, ATP6V0A4","{
+  ""answer"": ""SLC4A1""
+}"
+What is the name of the gene related to Pseudohypoparathyroidism Ic?,Pseudohypoparathyroidism Ic,MONDO:0019992,GNAS,"{
+  ""answer"": ""GNAS""
+}"
+What is the name of the gene related to Glycine N-methyltransferase deficiency?,Glycine N-methyltransferase deficiency,MONDO:0011698,GNMT,"{
+  ""answer"": ""GNMT""
+}"
+What is the name of the gene related to Meesmann corneal dystrophy?,Meesmann corneal dystrophy,MONDO:0007379,"KRT12, KRT3","{
+  ""answer"": ""KRT12""
+}"
+What is the name of the gene related to Chronic atrial and intestinal dysrhythmia?,Chronic atrial and intestinal dysrhythmia,MONDO:0014528,SGO1,"{
+  ""answer"": ""SGOL1""
+}"
+What is the name of the gene related to Sensorineural deafness with mild renal dysfunction?,Sensorineural deafness with mild renal dysfunction,MONDO:0011242,BSND,"{
+  ""answer"": ""SLC26A4""
+}"
+What is the name of the gene related to Bile acid malabsorption?,Bile acid malabsorption,UMLS:C2747802,"SLC10A2, SLC51B","{
+  ""answer"": ""SLC10A2""
+}"
+What is the name of the gene related to Immunodeficiency due to defect in MAPBP-interacting protein?,Immunodeficiency due to defect in MAPBP-interacting protein,MONDO:0012559,LAMTOR2,"{
+  ""answer"": ""MIB1""
+}"
+What is the name of the gene related to Currarino syndrome?,Currarino syndrome,MONDO:0008305,MNX1,"{
+  ""answer"": ""MNX1""
+}"
+What is the name of the gene related to Intervertebral disc disease?,Intervertebral disc disease,UMLS:C0393414,COL9A3,"{
+  ""answer"": ""COL9A2""
+}"
+What is the name of the gene related to Otofaciocervical syndrome?,Otofaciocervical syndrome,MONDO:0008163,"EYA1, PAX1","{
+  ""answer"": ""PAX1""
+}"
+What is the name of the gene related to Brody myopathy?,Brody myopathy,MONDO:0010977,ATP2A1,"{
+  ""answer"": ""ATP2A1""
+}"
+What is the name of the gene related to Neurodevelopmental disorder with gait disturbance?,Neurodevelopmental disorder with gait disturbance,MONDO:0859085,TCEAL1,"{
+  ""answer"": ""GNB1""
+}"
+What is the name of the gene related to Mitochondrial DNA depletion syndrome 4A Alpers type?,Mitochondrial DNA depletion syndrome 4A Alpers type,MONDO:0008758,POLG,"{
+  ""answer"": ""POLG""
+}"
+What is the name of the gene related to Nephropathy due to CFHR5 deficiency?,Nephropathy due to CFHR5 deficiency,MONDO:0013892,CFHR5,"{
+  ""answer"": ""CFHR5""
+}"
+What is the name of the gene related to Achromatopsia?,Achromatopsia,MONDO:0018852,"CNGA3, CNGB3, GNAT2, PDE6H, ATF6","{
+  ""answer"": ""CNGA3""
+}"
+What is the name of the gene related to Hyperphenylalaninemia?,Hyperphenylalaninemia,MONDO:0016543,"PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH","{
+  ""answer"": ""PAH""
+}"
+What is the name of the gene related to EDICT syndrome?,EDICT syndrome,MONDO:0013678,MIR184,"{
+  ""answer"": ""SALL1""
+}"
+What is the name of the gene related to Gastrointestinal defects and immunodeficiency syndrome?,Gastrointestinal defects and immunodeficiency syndrome,MONDO:0800030,"PI4KA, TTC7A","{
+  ""answer"": ""PIK3CD""
+}"
+What is the name of the gene related to Cleft palate with ankyloglossia?,Cleft palate with ankyloglossia,UMLS:C1844831,TBX22,"{
+  ""answer"": ""TBX22""
+}"
+What is the name of the gene related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?,Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures,MONDO:0032877,DLL1,"{
+  ""answer"": ""GNB1""
+}"
+What is the name of the gene related to Spondylocarpotarsal synostosis syndrome?,Spondylocarpotarsal synostosis syndrome,MONDO:0010094,FLNB,"{
+  ""answer"": ""FLNB""
+}"
+What is the name of the gene related to Haim-Munk syndrome?,Haim-Munk syndrome,MONDO:0009491,CTSC,"{
+  ""answer"": ""CTSC""
+}"
+What is the name of the gene related to Sialidosis?,Sialidosis,MONDO:0017734,"NEU1, NEU1","{
+  ""answer"": ""NEU1""
+}"
+What is the name of the gene related to Siddiqi syndrome?,Siddiqi syndrome,MONDO:0032842,FITM2,"{
+  ""answer"": ""MAGEL2""
+}"
+What is the name of the gene related to Corneal fleck dystrophy?,Corneal fleck dystrophy,MONDO:0007376,PIKFYVE,"{
+  ""answer"": ""PIP5K3""
+}"
+What is the name of the gene related to Liver failure?,Liver failure,MONDO:0100192,TRMU,"{
+  ""answer"": ""CYP2E1""
+}"
+What is the name of the gene related to Proteasome-associated autoinflammatory syndrome?,Proteasome-associated autoinflammatory syndrome,MONDO:0054699,"PSMB9, PSMG2, POMP, PSMB10","{
+  ""answer"": ""PSMB8""
+}"
+What is the name of the gene related to Orofaciodigital syndrome XIV?,Orofaciodigital syndrome XIV,MONDO:0015375,C2CD3,"{
+  ""answer"": ""C2CD3""
+}"
+What is the name of the gene related to Trichoepithelioma?,Trichoepithelioma,MONDO:0020593,CYLD,"{
+  ""answer"": ""CYLD""
+}"
+What is the name of the gene related to Medullary thyroid carcinoma?,Medullary thyroid carcinoma,MONDO:0015277,RET,"{
+  ""answer"": ""RET""
+}"
+What is the name of the gene related to Type diabetes mellitus?,Type diabetes mellitus,UMLS:C0948894,"HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6","{
+  ""answer"": ""HLA-DQB1""
+}"
+What is the name of the gene related to Buschke-Ollendorff syndrome?,Buschke-Ollendorff syndrome,MONDO:0008157,LEMD3,"{
+  ""answer"": ""LEMD3""
+}"
+What is the name of the gene related to Vascular malformation?,Vascular malformation,MONDO:0024291,ELMO2,"{
+  ""answer"": ""TEK""
+}"
+What is the name of the gene related to Acrocallosal syndrome?,Acrocallosal syndrome,MONDO:0008708,KIF7,"{
+  ""answer"": ""KIF7""
+}"
+What is the name of the gene related to Congenital disorder of deglycosylation?,Congenital disorder of deglycosylation,MONDO:0031376,"NGLY1, MAN2C1","{
+  ""answer"": ""NGLY1""
+}"
+What is the name of the gene related to Spinal muscular atrophy with congenital bone fractures?,Spinal muscular atrophy with congenital bone fractures,MONDO:0014806,"TRIP4, ASCC1","{
+  ""answer"": ""ASCC1""
+}"
+What is the name of the gene related to B-cell immunodeficiency?,B-cell immunodeficiency,MONDO:0012243,TOP2B,"{
+  ""answer"": ""BTK""
+}"
+What is the name of the gene related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?,Immunodeficiency with inflammatory disease and congenital thrombocytopenia,MONDO:0032601,ARPC1B,"{
+  ""answer"": ""WAS""
+}"
+What is the name of the gene related to Split-foot malformation with mesoaxial polydactyly?,Split-foot malformation with mesoaxial polydactyly,MONDO:0014816,MAP3K20,"{
+  ""answer"": ""GLI3""
+}"
+What is the name of the gene related to Pigmented nodular adrenocortical disease?,Pigmented nodular adrenocortical disease,MONDO:0015999,"PRKAR1A, PDE11A, PDE8B","{
+  ""answer"": ""PRKAR1A""
+}"
+What is the name of the gene related to Superoxide dismutase?,Superoxide dismutase,CHEBI:18421,SOD3,"{
+  ""answer"": ""SOD1""
+}"
+What is the name of the gene related to Leukoencephalopathy with dystonia and motor neuropathy?,Leukoencephalopathy with dystonia and motor neuropathy,UMLS:C3502241,SCP2,"{
+  ""answer"": ""MICU1""
+}"
+What is the name of the gene related to Intracranial hemorrhage in brain cerebrovascular malformations?,Intracranial hemorrhage in brain cerebrovascular malformations,UMLS:C1840138,IL6,"{
+  ""answer"": ""KRIT1""
+}"
+What is the name of the gene related to Multiple system atrophy?,Multiple system atrophy,MONDO:0007803,COQ2,"{
+  ""answer"": ""COQ2""
+}"
+What is the name of the gene related to Cone dystrophy?,Cone dystrophy,MONDO:0000455,"PDE6C, GUCA1A","{
+  ""answer"": ""GUCA1A""
+}"
+What is the name of the gene related to Holt-Oram syndrome?,Holt-Oram syndrome,MONDO:0007732,TBX5,"{
+  ""answer"": ""TBX5""
+}"
+What is the name of the gene related to Lichtenstein-Knorr syndrome?,Lichtenstein-Knorr syndrome,MONDO:0014572,SLC9A1,"{
+  ""answer"": ""COL4A1""
+}"
+What is the name of the gene related to Ablepharon-macrostomia syndrome?,Ablepharon-macrostomia syndrome,MONDO:0008693,TWIST2,"{
+  ""answer"": ""TWIST2""
+}"
+What is the name of the gene related to Narcolepsy?,Narcolepsy,MONDO:0021107,"HCRT, MOG","{
+  ""answer"": ""HLA-DQB1""
+}"
+What is the name of the gene related to Neurodevelopmental disorder with absent language and variable seizures?,Neurodevelopmental disorder with absent language and variable seizures,MONDO:0032876,WASF1,"{
+  ""answer"": ""GRIN2B""
+}"
+What is the name of the gene related to Reticulate acropigmentation of Kitamura?,Reticulate acropigmentation of Kitamura,MONDO:0014234,ADAM10,"{
+  ""answer"": ""ADAM10""
+}"
+What is the name of the gene related to Leber congenital amaurosis with early-onset deafness?,Leber congenital amaurosis with early-onset deafness,MONDO:0060650,TUBB4B,"{
+  ""answer"": ""CEP78""
+}"
+What is the name of the gene related to Thyroid cancer?,Thyroid cancer,MONDO:0002108,"HABP2, NKX2-1, SRGAP1, FOXE1","{
+  ""answer"": ""RET""
+}"
+What is the name of the gene related to Hyperparathyroidism-jaw tumor syndrome?,Hyperparathyroidism-jaw tumor syndrome,OMIM:145001,CDC73,"{
+  ""answer"": ""CDC73""
+}"
+What is the name of the gene related to Harderoporphyria?,Harderoporphyria,MONDO:0030048,CPOX,"{
+  ""answer"": ""CPOX""
+}"
+What is the name of the gene related to Neurodevelopmental disorder with dysmorphic features?,Neurodevelopmental disorder with dysmorphic features,MONDO:0700092,PGAP1,"{
+  ""answer"": ""KMT2A""
+}"
+What is the name of the gene related to Martsolf syndrome?,Martsolf syndrome,MONDO:0023910,"RAB3GAP2, RAB3GAP1","{
+  ""answer"": ""RAB3GAP2""
+}"
+What is the name of the gene related to Monocarboxylate transporter deficiency?,Monocarboxylate transporter deficiency,PANTHER.FAMILY:PTHR11360,SLC16A1,"{
+  ""answer"": ""SLC16A1""
+}"
+What is the name of the gene related to Monilethrix?,Monilethrix,MONDO:0008009,"KRT81, KRT83, KRT86","{
+  ""answer"": ""KRT81""
+}"
+What is the name of the gene related to Foveal hypoplasia?,Foveal hypoplasia,MONDO:0044203,"PAX6, SLC38A8","{
+  ""answer"": ""SLC38A8""
+}"
+What is the name of the gene related to Choreoacanthocytosis?,Choreoacanthocytosis,MONDO:0008695,VPS13A,"{
+  ""answer"": ""VPS13A""
+}"
+What is the name of the gene related to Heimler syndrome?,Heimler syndrome,OMIM:616617,"PEX1, PEX6","{
+  ""answer"": ""PEX1""
+}"
+What is the name of the gene related to Meleda disease?,Meleda disease,MONDO:0009552,SLURP1,"{
+  ""answer"": ""SLURP1""
+}"
+What is the name of the gene related to Immune dysregulation and systemic hyperinflammation syndrome?,Immune dysregulation and systemic hyperinflammation syndrome,MONDO:0033557,RC3H1,"{
+  ""answer"": ""NLRC4""
+}"
+What is the name of the gene related to Hyperprolinemia?,Hyperprolinemia,MONDO:0023419,"PRODH, ALDH4A1","{
+  ""answer"": ""PRODH""
+}"
+What is the name of the gene related to AICA-ribosiduria due to ATIC deficiency?,AICA-ribosiduria due to ATIC deficiency,MONDO:0012099,ATIC,"{
+  ""answer"": ""ATIC""
+}"
+What is the name of the gene related to Norum disease?,Norum disease,MONDO:0009515,LCAT,"{
+  ""answer"": ""APOB""
+}"
+What is the name of the gene related to Hypomyelinating neuropathy?,Hypomyelinating neuropathy,MONDO:0033352,"EGR2, MPZ, CNTNAP1","{
+  ""answer"": ""GJB1""
+}"
+What is the name of the gene related to SADDAN?,SADDAN,MONDO:0014658,FGFR3,"{
+  ""answer"": ""FGFR3""
+}"
+What is the name of the gene related to Wieacker-Wolff syndrome?,Wieacker-Wolff syndrome,MONDO:0010758,"ZC4H2, ZC4H2","{
+  ""answer"": ""ZC4H2""
+}"
+What is the name of the gene related to Kabuki syndrome?,Kabuki syndrome,MONDO:0016512,"KMT2D, KDM6A","{
+  ""answer"": ""KMT2D""
+}"
+What is the name of the gene related to Coronary artery spasm?,Coronary artery spasm,UBERON:0001621,"NOS3, PON1","{
+  ""answer"": ""NOS3""
+}"
+What is the name of the gene related to Multiple endocrine neoplasia IIB?,Multiple endocrine neoplasia IIB,MONDO:0017169,RET,"{
+  ""answer"": ""RET""
+}"
+What is the name of the gene related to Blistering?,Blistering,MONDO:0030986,DSG3,"{
+  ""answer"": ""COL7A1""
+}"
+What is the name of the gene related to Sick sinus syndrome?,Sick sinus syndrome,MONDO:0001823,"GNB2, SCN5A, HCN4, MYH6","{
+  ""answer"": ""SCN5A""
+}"
+What is the name of the gene related to Thrombophilia?,Thrombophilia,MONDO:0002305,"F8, F9, F5","{
+  ""answer"": ""F5""
+}"
+What is the name of the gene related to Maturity-onset diabetes of the young?,Maturity-onset diabetes of the young,MONDO:0018911,"NEUROD1, INS, BLK, KCNJ11, PAX4, KLF11, CEL, APPL1","{
+  ""answer"": ""HNF1A""
+}"
+What is the name of the gene related to Fucosidosis?,Fucosidosis,MONDO:0009254,FUCA1,"{
+  ""answer"": ""FUCA1""
+}"
+What is the name of the gene related to Neurodevelopmental disorder with progressive spasticity and brain white matter abnormalities?,Neurodevelopmental disorder with progressive spasticity and brain white matter abnormalities,MONDO:0033613,HPDL,"{
+  ""answer"": ""NUP62""
+}"
+What is the name of the gene related to Craniofacial-skeletal-dermatologic dysplasia?,Craniofacial-skeletal-dermatologic dysplasia,MONDO:0007043,FGFR2,"{
+  ""answer"": ""SAMD9""
+}"
+What is the name of the gene related to Hawkinsinuria?,Hawkinsinuria,MONDO:0007700,HPD,"{
+  ""answer"": ""HPD""
+}"
+What is the name of the gene related to Brain abnormalities?,Brain abnormalities,UBERON:0000955,CSF1R,"{
+  ""answer"": ""LIS1""
+}"
+What is the name of the gene related to HSD10 mitochondrial disease?,HSD10 mitochondrial disease,MONDO:0010327,HSD17B10,"{
+  ""answer"": ""HSD17B10""
+}"
+What is the name of the gene related to Elliptocytosis?,Elliptocytosis,MONDO:0017319,"EPB41, SPTA1, SPTB","{
+  ""answer"": ""SLC4A1""
+}"
+What is the name of the gene related to IVIC syndrome?,IVIC syndrome,MONDO:0007836,SALL4,"{
+  ""answer"": ""IVIC syndrome is not associated with a specific gene. It is a rare genetic disorder characterized by a combination of features, and its genetic basis is not well-defined.""
+}"
+What is the name of the gene related to Zimmermann-Laband syndrome?,Zimmermann-Laband syndrome,MONDO:0000200,"KCNH1, ATP6V1B2, KCNN3","{
+  ""answer"": ""KCNH1""
+}"
+What is the name of the gene related to Fasting plasma glucose level?,Fasting plasma glucose level,UMLS:C3150710,GCKR,"{
+  ""answer"": ""G6PC2""
+}"
+What is the name of the gene related to Gout?,Gout,MONDO:0005393,PRPS1,"{
+  ""answer"": ""SLC2A9""
+}"
+What is the name of the gene related to Schwannomatosis?,Schwannomatosis,DOID:3204,"NF2, SMARCB1, LZTR1","{
+  ""answer"": ""SMARCB1""
+}"
+What is the name of the gene related to Hypoparathyroidism?,Hypoparathyroidism,MONDO:0001220,"PTH, GCM2, GATA3","{
+  ""answer"": ""GCM2""
+}"
+What is the name of the gene related to Sclerosing cholangitis?,Sclerosing cholangitis,MONDO:0018646,DCDC2,"{
+  ""answer"": ""HLA-DRB1""
+}"
+What is the name of the gene related to Mycobacterium tuberculosis?,Mycobacterium tuberculosis,NCBITaxon:1773,"IRGM, SLC11A1, CCL2, CD209, SP110, TLR2","{
+  ""answer"": ""ESX-1""
+}"
+What is the name of the gene related to Cole-Carpenter syndrome?,Cole-Carpenter syndrome,MONDO:0016085,"P4HB, SEC24D","{
+  ""answer"": ""SEC24D""
+}"
+What is the name of the gene related to Tn polyagglutination syndrome?,Tn polyagglutination syndrome,MONDO:0010381,C1GALT1C1,"{
+  ""answer"": ""C1GALT1C1""
+}"
+What is the name of the gene related to Congenital contractures of the limbs and face?,Congenital contractures of the limbs and face,MONDO:0014556,NALCN,"{
+  ""answer"": ""ECEL1""
+}"
+What is the name of the gene related to Hartsfield syndrome?,Hartsfield syndrome,MONDO:0014196,FGFR1,"{
+  ""answer"": ""FGFR1""
+}"
+What is the name of the gene related to Hodgkin lymphoma?,Hodgkin lymphoma,MONDO:0018908,KLHDC8B,"{
+  ""answer"": ""NFKB1""
+}"
+What is the name of the gene related to Hemorrhagic diathesis due to antithrombin Pittsburgh?,Hemorrhagic diathesis due to antithrombin Pittsburgh,MONDO:0008802,SERPINA1,"{
+  ""answer"": ""SERPINC1""
+}"
