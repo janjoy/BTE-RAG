@@ -60,6 +60,8 @@ Figure 4 evaluates the impact of retrieval-augmented context on semantic concord
 (LLM-only vs BTE-RAG evaluation on the DrugMechDB metabolite-centric benchmark)
 
 **Processed Data:**
+- data/analysis_results/metabolite_results/gpt4omini_prompt_analysed.csv
+- data/analysis_results/metabolite_results/gpt4o_prompt_analysed.csv
 - data/analysis_results/metabolite_results/gpt4omini_bte_analysed.csv
 - data/analysis_results/metabolite_results/gpt4o_bte_analysed.csv
   
@@ -77,6 +79,8 @@ Figure 5 demonstrates that while BTE-RAG maintains overall performance parity wi
 (LLM-only vs BTE-RAG evaluation on the DrugMechDB drug–biological process benchmark)
 
 **Processed Data:**
+- data/analysis_results/bp_results/gpt4omini_bte_analysed.csv
+- data/analysis_results/bp_results/gpt4o_prompt_analysed.csv
 - data/analysis_results/bp_results/gpt4omini_bte_analysed.cs
 - data/analysis_results/bp_results/gpt4o_bte_analysed.csv
   
@@ -132,6 +136,8 @@ Processed figure: figures/mechanistic_genes/gpt4o
 ## Figure S6-S9
 
 **Processed Data:**
+- data/analysis_results/metabolite_results/gpt4omini_prompt_analysed.csv
+- data/analysis_results/metabolite_results/gpt4o_prompt_analysed.csv
 - data/analysis_results/metabolite_results/gpt4omini_bte_analysed.csv
 - data/analysis_results/metabolite_results/gpt4o_bte_analysed.csv
 
@@ -163,6 +169,8 @@ Processed figure: figures/metabolite/ranked_similarity_curves.svg
 ## Figure S10-S13
 
 **Processed Data:**
+- data/analysis_results/bp_results/gpt4omini_bte_analysed.csv
+- data/analysis_results/bp_results/gpt4o_prompt_analysed.csv
 - data/analysis_results/bp_results/gpt4omini_bte_analysed.cs
 - data/analysis_results/bp_results/gpt4o_bte_analysed.csv
 
