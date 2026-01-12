@@ -8,9 +8,18 @@ This repository provides an implementation of the **BTE-RAG** framework, designe
 
 - **DMDB_benchmark/**: Contains benchmark datasets derived from DrugMechDB, structured for evaluating model performance.
 - **data/analysis_results/**: Output data from various analyses conducted using BTE-RAG.
-- **figures/**: Repository for storing figures generated during analysis.
+- **figures/**: Directory for storing figures generated during analysis.
 - **kg_rag/**: Core code implementing the knowledge graph (KG) augmented retrieval mechanism.
 - **notebooks/**: Jupyter notebooks demonstrating the application, usage, and analysis workflows of the BTE-RAG system.
+
+### Figures and Reproducibility
+
+Processed data and figures from the manuscript, corresponding to Figures 2–5 and Supplementary Figures 2–13
+are available in the `data/` and `figures/` directories.
+
+A detailed mapping from each manuscript figure to the exact notebooks and processed
+output files used to generate it is provided in:
+`figures/README.md`
 
 ### Installation
 
