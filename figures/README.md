@@ -7,12 +7,22 @@ are provided in the `data/analysis_results/` and `figures/` directories.
 Figure 2 compares the performance of LLM-only, BTE-RAG, and GeneGPT methods on the GeneTuring gene–disease association benchmark.
 
 **Notebooks used:**
--	07_genegpt_baseline_eval_dmdb_and_geneturing.ipynb
+-	notebooks/07_genegpt_baseline_eval_dmdb_and_geneturing.ipynb
 (GeneGPT baselines using GPT-4o-mini and GPT-4o on the GeneTuring benchmark)
--	08_geneturing_llm_vs_bterag.ipynb
+-	notebooks/08_geneturing_llm_vs_bterag.ipynb
 (LLM-only vs BTE-RAG evaluation on the GeneTuring gene–disease association task)
--	09_comparative_benchmark_analysis_and_statistics_dmdb_geneturing.ipynb
+-	notebooks/09_comparative_benchmark_analysis_and_statistics_dmdb_geneturing.ipynb
 (Aggregation, statistical analysis, and figure generation)
+
+**Processed Data:**
+-	data/geneTuring/results/gpt_4o_mini_PROMPT_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_PROMPT_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_mini_BTE-RAG_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_BTE-RAG_geneTuring_gene_dis_assoc_context_output.csv
+-	data/GeneGPT_results/111111/GeneTuring_gene_dis_gpt4omini_genegpt_full.json
+-	data/GeneGPT_results/111111/GeneTuring_gene_dis_gpt4o_genegpt_full.json
+-	data/GeneGPT_results/001001/GeneTuring_gene_dis_gpt4omini_genegpt_slim.json
+-	data/GeneGPT_results/001001/GeneTuring_gene_dis_gpt4o_genegpt_slim.json
 
 **Processed figure:**
 - /figures/geneTuring_gene_disease/combined_geneTuring_comparison.png
@@ -21,13 +31,23 @@ Figure 2 compares the performance of LLM-only, BTE-RAG, and GeneGPT methods on t
 Figure 3 demonstrates that retrieval-augmented generation with BTE-RAG markedly improves factual accuracy on the gene-centric mechanistic benchmark compared to LLM-only and GeneGPT baselines using GPT-4o models.
 
 **Notebooks used:**
-- 03_dmdb_mechanistic_gene_benchmark_eval.ipynb
+- notebooks/03_dmdb_mechanistic_gene_benchmark_eval.ipynb
 (LLM-only and BTE-RAG evaluation on the DrugMechDB mechanistic gene benchmark)
--	07_genegpt_baseline_eval_dmdb_and_geneturing.ipynb
+-	notebooks/07_genegpt_baseline_eval_dmdb_and_geneturing.ipynb
 (GeneGPT baselines on the mechanistic gene benchmark)
--	09_comparative_benchmark_analysis_and_statistics_dmdb_geneturing.ipynb
+-	notebooks/09_comparative_benchmark_analysis_and_statistics_dmdb_geneturing.ipynb
 (Aggregation, statistical analysis, and figure generation)
 
+**Processed Data:**
+- data/analysis_results/mechanistic_genes/gpt_4o_mini_prompt-testing_drugmechDB_mechanistic_798qa_count_1.csv
+- data/analysis_results/mechanistic_genes/gpt_4o_prompt-testing_drugmechDB_mechanistic_798qa_count_1.csv
+- data/analysis_results/mechanistic_genes/gpt-4o-mini_BTE-RAG_DMDB_mech_genes_full_thresholds_varying.csv
+- data/analysis_results/mechanistic_genes/gpt-4o_BTE-RAG_DMDB_mech_genes_full_thresholds_varying.csv
+- data/GeneGPT_results/111111/mech_gene_gpt4omini_genegpt_full.json
+- data/GeneGPT_results/111111/mech_gene_gpt4o_genegpt_full.json
+- data/GeneGPT_results/001001/mech_gene_gpt4omini_genegpt_slim.json
+- data/GeneGPT_results/001001/mech_gene_gpt4o_genegpt_slim.json
+    
 **Processed figure:**
 - /figures/mechanistic_genes/combined_mechanistic_gene_comparison.png
 
@@ -36,9 +56,13 @@ Figure 3 demonstrates that retrieval-augmented generation with BTE-RAG markedly 
 Figure 4 evaluates the impact of retrieval-augmented context on semantic concordance between model outputs and ground-truth metabolite mechanisms, comparing LLM-only and BTE-RAG approaches.
 
 **Notebooks used:**
-- 04_dmdb_metabolite_benchmark_eval.ipynb
+- notebooks/04_dmdb_metabolite_benchmark_eval.ipynb
 (LLM-only vs BTE-RAG evaluation on the DrugMechDB metabolite-centric benchmark)
 
+**Processed Data:**
+- data/analysis_results/metabolite_results/gpt4omini_bte_analysed.csv
+- data/analysis_results/metabolite_results/gpt4o_bte_analysed.csv
+  
 **Processed figure:**
 - /figures/metabolite/llm_vs_bte_rag_metabolite.svg
 - /figures/metabolite/gpt_4o_llm_only_similarity_distribution.svg
@@ -49,9 +73,13 @@ Figure 4 evaluates the impact of retrieval-augmented context on semantic concord
 Figure 5 demonstrates that while BTE-RAG maintains overall performance parity with LLM-only baselines, it substantially outperforms in the high-fidelity regime of drug-centric mechanistic answers.
 
 **Notebooks used:**
-- 05_dmdb_biological_process_benchmark_eval.ipynb
+- notebooks/05_dmdb_biological_process_benchmark_eval.ipynb
 (LLM-only vs BTE-RAG evaluation on the DrugMechDB drug–biological process benchmark)
 
+**Processed Data:**
+- data/analysis_results/bp_results/gpt4omini_bte_analysed.cs
+- data/analysis_results/bp_results/gpt4o_bte_analysed.csv
+  
 **Processed figure:**
 - /figures/drug_go_bp/llm_vs_bte_rag_drug_bioprocess.svg
 - /figures/drug_go_bp/gpt_4o_llm_only_similarity_distribution.svg
@@ -63,8 +91,26 @@ Figure 5 demonstrates that while BTE-RAG maintains overall performance parity wi
 
 Notebook: notebooks/09_comparative_benchmark_analysis_and_statistics_dmdb_geneturing.ipynb
 
+Processed data:
+-	data/geneTuring/results/gpt_4o_mini_PROMPT_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_PROMPT_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_mini_BTE-RAG_geneTuring_gene_dis_assoc_context_output.csv
+-	data/geneTuring/results/gpt_4o_BTE-RAG_geneTuring_gene_dis_assoc_context_output.csv
+-	data/GeneGPT_results/111111/GeneTuring_gene_dis_gpt4omini_genegpt_full.json
+-	data/GeneGPT_results/111111/GeneTuring_gene_dis_gpt4o_genegpt_full.json
+-	data/GeneGPT_results/001001/GeneTuring_gene_dis_gpt4omini_genegpt_slim.json
+-	data/GeneGPT_results/001001/GeneTuring_gene_dis_gpt4o_genegpt_slim.json
+
 Processed figure: figures/geneTuring_gene_disease/combined_contingency_tables.png
 
+## Figure S3-S5
+
+**Processed Data:**
+- data/analysis_results/mechanistic_genes/gpt_4o_mini_prompt-testing_drugmechDB_mechanistic_798qa_count_1.csv
+- data/analysis_results/mechanistic_genes/gpt_4o_prompt-testing_drugmechDB_mechanistic_798qa_count_1.csv
+- data/analysis_results/mechanistic_genes/gpt-4o-mini_BTE-RAG_DMDB_mech_genes_full_thresholds_varying.csv
+- data/analysis_results/mechanistic_genes/gpt-4o_BTE-RAG_DMDB_mech_genes_full_thresholds_varying.csv
+  
 ### Figure S3: Contingency table analysis of BTE-RAG performance gains on the Mechanistic Gene benchmark.
 
 Notebook: notebooks/03_dmdb_mechanistic_gene_benchmark_eval.ipynb
@@ -82,6 +128,12 @@ Processed figure: figures/mechanistic_genes/gpt4omini
 Notebook: notebooks/03_dmdb_mechanistic_gene_benchmark_eval.ipynb
 
 Processed figure: figures/mechanistic_genes/gpt4o
+
+## Figure S6-S9
+
+**Processed Data:**
+- data/analysis_results/metabolite_results/gpt4omini_bte_analysed.csv
+- data/analysis_results/metabolite_results/gpt4o_bte_analysed.csv
 
 ### Figure S6: Cosine-similarity profile for the metabolite-centric benchmark using GPT-4o-mini in LLM-only mode.
 
@@ -107,6 +159,12 @@ Processed figure: figures/metabolite/bte‑gpt‑4o_similarity_distributions_his
 Notebook: notebooks/04_dmdb_metabolite_benchmark_eval.ipynb
 
 Processed figure: figures/metabolite/ranked_similarity_curves.svg
+
+## Figure S10-S13
+
+**Processed Data:**
+- data/analysis_results/bp_results/gpt4omini_bte_analysed.cs
+- data/analysis_results/bp_results/gpt4o_bte_analysed.csv
 
 ### Figure S10: Cosine-similarity profile for the drug-centric benchmark using GPT-4o-mini in LLM-only mode.
 
